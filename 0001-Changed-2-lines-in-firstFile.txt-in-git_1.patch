@@ -1,0 +1,21 @@
+From 7a7f19956e007ee1b3f2b1cf7d9fba731acec362 Mon Sep 17 00:00:00 2001
+From: sultaAann <sultandjavgashev@gmail.com>
+Date: Tue, 13 Jun 2023 14:10:05 +0500
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | Bin 1300 -> 1277 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 06a1b8ecef81f6f97d0a6cc6d736ec5357309ba2..ce0994515eb161f3f4c566831b459646ce7fcc38 100644
+GIT binary patch
+delta 34
+lcmbQj^_Nr9F(oB6MIkM-sJO%}GbdHAgqI5<w9()R3joi>3(Noj
+
+delta 15
+Xcmey%IfZLt{gjFE(>4n;zG4OdI12`Y
+
+-- 
+2.39.1.windows.1
+
